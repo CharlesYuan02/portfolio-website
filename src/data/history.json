@@ -1,0 +1,38 @@
+[
+    {
+        "role": "SWE Intern",
+        "organisation": "Uber",
+        "startDate": "Sept, 2023",
+        "endDate": "Apr, 2024",
+        "experiences": [
+            "Spark SQL ETL pipelines (+46% data coverage)", 
+            "XGBoost models (-33% MAE, -37% RMSE)", 
+            "Go backend endpoints w/ 96% code coverage"
+            ],
+        "imageSrc": "history/uber.png"
+    },
+    {
+        "role": "ML Intern",
+        "organisation": "Qualcomm",
+        "startDate": "May, 2023",
+        "endDate": "Aug, 2023",
+        "experiences": [
+            "Worked on multimodal vision transformers", 
+            "Lossless quantization w/ AIMET, Pytorch, ONNX",
+            "75% reduction in model size for on-device"
+            ],
+        "imageSrc": "history/qualcomm-3.png"
+    },
+    {
+        "role": "SWE Intern",
+        "organisation": "Content Turbine",
+        "startDate": "Jun, 2022",
+        "endDate": "Sept, 2022",
+        "experiences": [
+            "Flask REST API w/ Supabase (PostgreSQL)",
+            "Stripe payment and OpenAI GPT-3 integration",
+            "CRON-scheduled web scraper for data"
+        ],
+        "imageSrc": "history/content-turbine.png"
+    }
+]

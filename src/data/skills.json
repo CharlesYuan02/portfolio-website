@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Python",
+        "imageSrc": "skills/python.svg"
+    },
+    {
+        "title": "Go",
+        "imageSrc": "skills/gopher.svg"
+    },
+    {
+        "title": "Supabase",
+        "imageSrc": "skills/supabase-icon.svg"
+    },
+    {
+        "title": "MongoDB",
+        "imageSrc": "skills/mongodb-icon.svg"
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html-5.svg"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css-3.svg"
+    },
+    {
+        "title": "Javascript",
+        "imageSrc": "skills/javascript.svg"
+    },
+    {
+        "title": "Typescript",
+        "imageSrc": "skills/typescript-icon.svg"
+    },
+    {
+        "title": "Tensorflow",
+        "imageSrc": "skills/tensorflow.svg"
+    },
+    {
+        "title": "Pytorch",
+        "imageSrc": "skills/pytorch-icon.svg"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.svg"
+    },
+    {
+        "title": "NodeJS",
+        "imageSrc": "skills/nodejs-icon.svg"
+    }
+]

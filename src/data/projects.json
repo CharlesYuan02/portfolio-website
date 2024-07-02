@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Portfolio.io",
+        "imageSrc": "projects/portfolio_io.png",
+        "description": "A place to share your investment portfolio with your friends!",
+        "skills": ["RAG", "Pinecone", "Supabase", "LangChain", "Streamlit"],
+        "demo": "https://github.com/Chubbyman2/portfolio.io",
+        "source": "https://github.com/Chubbyman2/portfolio.io"
+    },
+    {
+        "title": "Mango10K",
+        "imageSrc": "projects/mango10k.png",
+        "description": "A chatbot to help retail investors effectively digest company 10-Ks and 10-Qs.",
+        "skills": ["RAG", "LangChain", "Gradio"],
+        "demo": "https://www.linkedin.com/posts/daniel-chen297_on-april-6th-we-created-mango10k-at-activity-7184621025626615808-aZ97/?utm_source=share&utm_medium=member_desktop",
+        "source": "https://github.com/Chubbyman2/Mango10K"
+    },
+    {
+        "title": "Mary (Discord Bot)",
+        "imageSrc": "projects/mary.png",
+        "description": "A Discord bot I made in Go. Her name is Mary.",
+        "skills": ["Go", "MongoDB", "Fly.io"],
+        "demo": "https://discord.com/oauth2/authorize?client_id=1038557818200019025&permissions=8&scope=bot",
+        "source": "https://github.com/Chubbyman2/mary-bot"
+    }
+]
