@@ -4,7 +4,7 @@
         "imageSrc": "projects/portfolio_io.png",
         "description": "A place to share your investment portfolio with your friends!",
         "skills": ["RAG", "Pinecone", "Supabase", "LangChain", "Streamlit"],
-        "demo": "https://github.com/Chubbyman2/portfolio.io",
+        "demo": "https://portfolio-io.streamlit.app/",
         "source": "https://github.com/Chubbyman2/portfolio.io"
     },
     {
