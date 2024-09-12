@@ -1,17 +1,17 @@
 [
     {
         "title": "Portfolio.io",
-        "imageSrc": "projects/portfolio_io.png",
+        "imageSrc": "projects/homepage.png",
         "description": "A place to share your investment portfolio with your friends!",
-        "skills": ["RAG", "Pinecone", "Supabase", "LangChain", "Streamlit"],
-        "demo": "https://portfolio-io.streamlit.app/",
+        "skills": ["React", "Django", "Auth0", "Supabase", "Pinecone", "RAG"],
+        "demo": "",
         "source": "https://github.com/CharlesYuan02/portfolio.io"
     },
     {
         "title": "Mango10K",
         "imageSrc": "projects/mango10k.png",
         "description": "A chatbot to help retail investors effectively digest company 10-Ks and 10-Qs.",
-        "skills": ["RAG", "LangChain", "Gradio"],
+        "skills": ["RAG", "LangChain", "Gradio", "MongoDB"],
         "demo": "https://www.linkedin.com/posts/daniel-chen297_on-april-6th-we-created-mango10k-at-activity-7184621025626615808-aZ97/?utm_source=share&utm_medium=member_desktop",
         "source": "https://github.com/CharlesYuan02/Mango10K"
     },
